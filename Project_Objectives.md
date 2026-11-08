@@ -43,7 +43,7 @@
 ### Objetivos
 
 - [X] Desenvolver o processo de análise dimensional segundo a metodologia de Kimball (definir processo de negócio, granulariade, dimensões e tabelas de facto)
-- [ ] Definir o esquema conceptual do data mart
+- [X] Definir o esquema conceptual do data mart
 - [X] Garantir que permite análises às vendas no nível de granularidade mais elementar
 - [X] Apresentar os atributos e respetivos tipos de dados para cada dimensão
 - [X] Apresentar os atributos e respetivos tipos de dados para a tabela de factos
